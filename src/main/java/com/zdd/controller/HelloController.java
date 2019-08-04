@@ -1,7 +1,7 @@
-package com.dalaoyang.controller;
+package com.zdd.controller;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-import com.dalaoyang.dubbo.HelloService;
+import com.zdd.dubbo.HelloService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

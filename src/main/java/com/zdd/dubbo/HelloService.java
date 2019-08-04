@@ -1,4 +1,4 @@
-package com.dalaoyang.dubbo;
+package com.zdd.dubbo;
 
 /**
  * @author dalaoyang
