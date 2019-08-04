@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.dalaoyang</groupId>
-    <artifactId>springboot_dubbo_client</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>com.zdd</groupId>
+    <artifactId>springboot-dubbo-client</artifactId>
+    <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>springboot_dubbo_client</name>
-    <description>springboot_dubbo_client</description>
+    <name>springboot-dubbo-client</name>
+    <description>springboot-dubbo-client</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
